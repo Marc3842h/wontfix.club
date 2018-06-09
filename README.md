@@ -1,5 +1,7 @@
 # wontfix.club Frontend
 
+**This project is getting deprecated. I'll be working forward to a new, improved version of wontfix.club that will be developed on the `v2` branch.**  
+  
 This is the frontend for wontfix.club. This site is
 pretty edgy and uses a lot of jQuery. Viewer discretion
 is advised.
